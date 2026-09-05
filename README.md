@@ -9,7 +9,7 @@ VENOM ek Android APK protection toolkit hai jo authorized applications ke code k
 
 ## ** Termux Install ✒️
 ```
-git clone https://github.com/krishn-145/VENOM.git
+git clone https://github.com/Krishn-145/VENOM.git
 cd VENOM
 chmod +x install.sh
 ./install.sh
@@ -19,6 +19,8 @@ chmod +x install.sh
 chmod +x install. sh
 ./install.sh
 ```
+
+## ** BY KRISHN 🔱**
 
 ✨ Features
 
